@@ -31,7 +31,7 @@ Based on my experience, earlier visibility supported more timely replenishment a
 
 Skills demonstrated: Demand analysis, inventory monitoring, operational improvement, Excel reporting, and stakeholder coordination.
 
-Explore the project
+
 
 2. Project Topic: Building a Stakeholder Engagement and Government Relations Program
 
