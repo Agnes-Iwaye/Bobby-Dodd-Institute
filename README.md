@@ -1,63 +1,60 @@
 # Bobby-Dodd-Institute - Stakeholder & Inventory Management 
 
-1. Project Topic: Preventing Peak-Season Beverage Stockouts
+1. Project Topic: Peak-Season Inventory and Fulfillment Improvement
 
 Organization: Bobby Dodd Institute | Client: Pomona
-Project responsibility: Inventory improvement and fulfillment coordination
+Responsibility: Inventory improvement and fulfillment coordination
+
+Illustrative monthly peak-season scenario: 12,000 → 24,000 two-packs delivered | 120 → 240 deliveries | $6,000 incremental contribution.
 
 Problem
 
-During festive periods, the warehouse frequently ran short of drinks supplied by Pomona. The drinks were assembled into two-packs, stored, and delivered to smaller retail stores. Inventory shortages interrupted packing and limited the team's ability to meet increased demand.
+Peak-period shortages interrupted packing and delivery of drinks to smaller retail stores. In the illustrative baseline, 120 deliveries carrying 100 two-packs each represented 12,000 two-packs, or 24,000 individual drinks, per month. Delayed replenishment constrained the operation's ability to meet higher demand.
 
 Task
 
-My responsibility was to improve visibility into available inventory and identify replenishment needs early enough to support peak-season fulfillment.
+Improve stock visibility, establish product-level monthly benchmarks, and identify replenishment needs before inventory shortages disrupted fulfillment.
 
 Action
 
-Reviewed historical orders and product movement to understand seasonal demand.
+Reviewed historical orders and product movement for seasonal demand patterns.
 
-Established monthly stock benchmarks for individual products.
+Established minimum stock benchmarks by product.
 
-Built an Excel tracker comparing available stock against those benchmarks.
+Built an Excel tracker using conditional formatting to flag low-stock products during stock reviews.
 
-Applied conditional formatting to highlight products approaching low-stock thresholds.
-
-Used the highlighted exceptions to coordinate replenishment and prepare for upcoming demand.
+Used the flagged products to coordinate replenishment ahead of festive demand.
 
 Results
 
-Based on my experience, earlier visibility supported more timely replenishment and increased delivery capacity during peak periods. The portfolio dashboard demonstrates how product-level alerts can support these decisions. Any displayed stockout reductions, delivery increases, revenue, or profit figures are illustrative and should not be interpreted as verified Pomona results.
-
-Skills demonstrated: Demand analysis, inventory monitoring, operational improvement, Excel reporting, and stakeholder coordination.
+My experience was that earlier visibility supported more timely replenishment and higher delivery capacity. The model represents 120 additional deliveries, 100% delivery growth, and $6,000 additional monthly contribution. Contribution is service revenue less variable costs; it is not net profit or Pomona's beverage-sales revenue.
 
 
-
-2. Project Topic: Building a Stakeholder Engagement and Government Relations Program
+2. Project Topic: Stakeholder Engagement and Government Relations
 
 Organization: Bobby Dodd Institute
-Project responsibility: Stakeholder engagement and advocacy coordination
+Responsibility: Stakeholder engagement and advocacy coordination
+
+Reported outcomes: fewer than 10 → more than 150 stakeholders over approximately 3 years | Georgia House resolution recognition.
 
 Problem
 
-The organization had fewer than 10 political stakeholders in its network when I joined. Limited relationships and inconsistent follow-up constrained opportunities to communicate organizational priorities, secure site visits, and build government support.
+The organization had fewer than 10 political stakeholders when I joined. Limited relationships constrained opportunities for advocacy, site visits, and government support.
 
 Task
 
-I needed to expand the stakeholder network, establish consistent communication, and turn initial contacts into sustained relationships that supported the organization's objectives.
+Expand the network and establish a consistent engagement process that converted initial contacts into sustained relationships.
 
 Action
 
-Identified legislators, government representatives, and other relevant stakeholders.
-
-Mapped stakeholders to prioritize engagement based on influence and interest.
+Identified and mapped stakeholders by influence, interest, and relevance.
 
 Developed communication plans and maintained follow-up records.
 
-Coordinated outreach, legislative-session participation, advocacy activities, and site visits.
+Coordinated outreach, legislative engagement, advocacy activities, and site visits.
 
-Communicated the organization's priorities and worked to secure stakeholder buy-in.
+Communicated organizational priorities and worked to secure stakeholder buy-in.
 
 Results
 
-In my account of the project, the network grew to approximately 20 stakeholders in the first year, more than 100 in the second year, and more than 150 in the third year. The engagement contributed to site visits, stronger government relationships, and recognition of Bobby Dodd Institute through a Georgia House resolution. These are approximate, experience-based outcomes; any additional grant amounts or modeled engagement rates in the portfolio are illustrative.
+The reported network expanded more than fifteenfold from its initial size. Engagement contributed to site visits, stronger government relationships, and a Georgia House resolution recognizing Bobby Dodd Institute. 
